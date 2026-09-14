@@ -33,20 +33,20 @@
   "dependencies": {
     "fast-glob": "^3.3.3",
     "json5": "^2.2.3",
-    "yaml": "^2.9.0"
+    "yaml": "^2.9.1"
   },
   "devDependencies": {
-    "@rsbuild/core": "^2.2.1",
+    "@rsbuild/core": "^2.2.6",
     "@rsbuild/plugin-react": "^2.1.0",
     "@rsbuild/plugin-type-check": "^1.6.0",
-    "@rstest/playwright": "^0.11.11",
-    "@types/node": "^24.13.3",
-    "@types/react": "^19.2.18",
-    "@types/react-dom": "^19.2.5",
-    "playwright": "^1.62.1",
-    "react": "^19.2.8",
-    "react-dom": "^19.2.8",
-    "rstack": "^0.7.2",
+    "@rstest/playwright": "^0.11.12",
+    "@types/node": "^24.13.4",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "playwright": "^1.63.0",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "rstack": "^0.7.4",
     "typescript": "6.0.3"
   },
   "peerDependencies": {
@@ -57,7 +57,7 @@
       "optional": true
     }
   },
-  "packageManager": "pnpm@11.24.0",
+  "packageManager": "pnpm@11.27.0",
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org/"
