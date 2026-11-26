@@ -15,3 +15,8 @@ minimumReleaseAgeExclude:
   - '@rstest/*'
   - 'rsbuild-plugin-*'
   - rstack
+
+permissions:
+  rstack:
+    skills:
+      - rstack-cli-docs
